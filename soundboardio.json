@@ -42,116 +42,144 @@
   ],
   "tiles": [
     {
-      "name": "Dělééj",
-      "filename": "delej.mp3"
+      "name": "Dělééj, už jsi tady měl bejt 4 minuty",
+      "filename": "delej.mp3",
+      "transcript": "Dělééj, už jste tady měli bejt 4 minuty, ty magore!"
     },
     {
       "name": "Mám to v piči",
-      "filename": "mamtovpici.mp3"
+      "filename": "mamtovpici.mp3",
+      "transcript": "Mám to v píči, vole, ne?"
     },
     {
       "name": "A co jako vole?",
-      "filename": "acojakovole.mp3"
+      "filename": "acojakovole.mp3",
+      "transcript": "A co jako, vole?"
     },
     {
       "name": "Duranga voe",
-      "filename": "duranga_voe.mp3"
+      "filename": "duranga_voe.mp3",
+      "transcript": "Duranga, vole."
     },
     {
       "name": "Říkáš mi hezky",
-      "filename": "rikas_mi_hezky.mp3"
+      "filename": "rikas_mi_hezky.mp3",
+      "transcript": "Říkáš mi hezky, vole, magore, vole."
     },
     {
       "name": "Pivo zasraný",
-      "filename": "pivo_zasrany.mp3"
+      "filename": "pivo_zasrany.mp3",
+      "transcript": "Si koupil nějaký pivo prej, zasraný."
     },
     {
       "name": "Stránskej",
-      "filename": "kde_je_ten_stranskej.mp3"
+      "filename": "kde_je_ten_stranskej.mp3",
+      "transcript": "Kde je ten Stránskej vypracenej, vole?"
     },
     {
       "name": "Je čas klidu",
-      "filename": "cas_klidu.mp3"
+      "filename": "cas_klidu.mp3",
+      "transcript": "Uklidněte se, je čas klidu."
     },
     {
       "name": "Čůrák vydlážděnej",
-      "filename": "curak_vydlazdenej.mp3"
+      "filename": "curak_vydlazdenej.mp3",
+      "transcript": "Že seš čůrák, vole, vydlážděnej, ty vole."
     },
     {
       "name": "Ser na to!",
-      "filename": "ser_na_to.mp3"
+      "filename": "ser_na_to.mp3",
+      "transcript": "Ser na to, píčo, vole, nebo tě tady dokopu, ty vole!"
     },
     {
       "name": "Hlavně že máš pivo!",
-      "filename": "mas_pivo.mp3"
+      "filename": "mas_pivo.mp3",
+      "transcript": "Nevim, kde je, vole. Je v píči, prostě ho nemám. Hlavně že máš pivo, vole!"
     },
     {
       "name": "Prstýnek",
-      "filename": "prstynek.mp3"
+      "filename": "prstynek.mp3",
+      "transcript": "Hele, já jsem ztratil prstýnek, jo, píčo."
     },
     {
       "name": "SS!",
-      "filename": "ss.mp3"
+      "filename": "ss.mp3",
+      "transcript": "SS division!"
     },
     {
       "name": "Vstávej vokurko!",
-      "filename": "vokurko.mp3"
+      "filename": "vokurko.mp3",
+      "transcript": "Vstávej, ty vokurko, vožralej!"
     },
     {
       "name": "Můžeme si tady zahajlovat?",
-      "filename": "zahajlovat.mp3"
+      "filename": "zahajlovat.mp3",
+      "transcript": "Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk."
     },
     {
       "name": "Co se děje?!",
-      "filename": "co_se_deje.mp3"
+      "filename": "co_se_deje.mp3",
+      "transcript": "Doprdele, co se děje?"
     },
     {
       "name": "Kelt",
-      "filename": "kelt.mp3"
+      "filename": "kelt.mp3",
+      "transcript": "Ty seš zkurvenej Kelt, ty vole."
     },
     {
       "name": "Mrdám to voe",
-      "filename": "mrdamtovoe.mp3"
+      "filename": "mrdamtovoe.mp3",
+      "transcript": "Mrdám to, vole."
     },
     {
       "name": "SS division Wallonie",
-      "filename": "ssdivision.mp3"
+      "filename": "ssdivision.mp3",
+      "transcript": "SS division Wallonie."
     },
     {
       "name": "Východní tažení 41-45",
-      "filename": "vychodni_tazeni.mp3"
+      "filename": "vychodni_tazeni.mp3",
+      "transcript": "Otočte se tam, na ty dva magory, na ty dva magory, rychle!"
     },
     {
       "name": "Průkaz SS division",
-      "filename": "prukaz.mp3"
+      "filename": "prukaz.mp3",
+      "transcript": "To je průkaz SS divize Wallonie. Počkejte, klid."
     },
     {
       "name": "Dělej, je na stole, kytka!",
-      "filename": "kytka.mp3"
+      "filename": "kytka.mp3",
+      "transcript": "Dělej, je na stole kytka, makej. Říkám ti, jdi pro ni!"
     },
     {
       "name": "To je prcárna!",
-      "filename": "prcarna.mp3"
+      "filename": "prcarna.mp3",
+      "transcript": "To je prcárna, vole!"
     },
     {
       "name": "Poslední varování",
-      "filename": "poslednivarovani.mp3"
+      "filename": "poslednivarovani.mp3",
+      "transcript": "To bylo první a poslední varování, upozorňuju vás na to."
     },
     {
       "name": "Svatební grc",
-      "filename": "grc2.mp3"
+      "filename": "grc2.mp3",
+      "transcript": "A vy, pane oddávající, dovolte, abych vám představila snoubence, ženicha, pana Jiřího Káru. A nevěstu, slečnu Blanku Divišovou."
     },
     {
       "name": "Samozřejmě!",
-      "filename": "samozrejme.mp3"
+      "filename": "samozrejme.mp3",
+      "transcript": "Samozřejmě!"
     },
     {
       "name": "Kde máš sako?",
-      "filename": "sako.mp3"
+      "filename": "sako.mp3",
+      "transcript": "Kde máš sako? Tady jsem ho vyfakoval do prdele."
     },
     {
       "name": "Ty jsi trapnej!",
-      "filename": "trapnej.mp3"
+      "filename": "trapnej.mp3",
+      "transcript": "Ty jsi trapnej!"
     }
   ],
   "references": [
@@ -196,5 +224,35 @@
       "source": "Reflex",
       "url": "https://ultrasg12chrudim.webnode.cz/news/jirka-kara-co-bylo-dal/"
     }
+  ],
+  "lyrics": [
+    "– Dělééj, už jste tady měli bejt 4 minuty, ty magore!",
+    "– Mám to v píči, vole, ne?",
+    "– A co jako, vole?",
+    "– Duranga, vole.",
+    "– Říkáš mi hezky, vole, magore, vole.",
+    "– Si koupil nějaký pivo prej, zasraný.",
+    "– Kde je ten Stránskej vypracenej, vole?",
+    "– Uklidněte se, je čas klidu.",
+    "– Že seš čůrák, vole, vydlážděnej, ty vole.",
+    "– Ser na to, píčo, vole, nebo tě tady dokopu, ty vole!",
+    "– Nevim, kde je, vole. Je v píči, prostě ho nemám. Hlavně že máš pivo, vole!",
+    "– Hele, já jsem ztratil prstýnek, jo, píčo.",
+    "– SS division!",
+    "– Vstávej, ty vokurko, vožralej!",
+    "– Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk.",
+    "– Doprdele, co se děje?",
+    "– Ty seš zkurvenej Kelt, ty vole.",
+    "– Mrdám to, vole.",
+    "– SS division Wallonie.",
+    "– Otočte se tam, na ty dva magory, na ty dva magory, rychle!",
+    "– To je průkaz SS divize Wallonie. Počkejte, klid.",
+    "– Dělej, je na stole kytka, makej. Říkám ti, jdi pro ni!",
+    "– To je prcárna, vole!",
+    "– To bylo první a poslední varování, upozorňuju vás na to.",
+    "– A vy, pane oddávající, dovolte, abych vám představila snoubence, ženicha, pana Jiřího Káru. A nevěstu, slečnu Blanku Divišovou.",
+    "– Samozřejmě!",
+    "– Kde máš sako? Tady jsem ho vyfakoval do prdele.",
+    "– Ty jsi trapnej!"
   ]
 }
