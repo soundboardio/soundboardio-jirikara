@@ -12,7 +12,7 @@
 
 **▶ [Open the soundboard](https://soundboardio.com/app/jirikara/?utm_source=github&utm_medium=readme&utm_campaign=jirikara)**
 
-> Svatba Jiřího Káry je internetový fenomén, který se na YouTube objevil poprvé v roce 2008.
+> Svatba Jiřího Káry z roku 2001 je legenda českého internetu.
 
 Board by [Sám Život](https://aquasoup.com).
 
