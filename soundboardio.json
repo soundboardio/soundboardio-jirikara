@@ -5,7 +5,10 @@
   "story": [
     "Svatba Jiřího Káry je internetový fenomén, který se na YouTube objevil poprvé v roce 2008.",
     "Záznam Károvy svatby natočil v květnu 2001 Alex Skribucký. Ženich si nechal vyhotovit dvě kopie, jednu dal svědkovi a kamarádovi Jiřímu \"Floydovi\" Horváthovi, a nechtěl, aby bylo video zveřejněno.",
-    "Kára s přáteli Milošem Ouřadou, Jiřím Horváthem a Hansem postává před večerkou ve Veletržní ulici, kde kouří a pijí pivo. Přidají se k nim Blanka Divišová a Hana, přítelkyně Miloše. Na úřadě, kde se k nim připojí Tomáš Stránský a Jiří Hovorka, je obřad několikrát přerušen kvůli rušení, téměř zrušen oddávajícím Lubošem Vayhelem."
+    "Kára s přáteli Milošem Ouřadou, Jiřím Horváthem a kameníkem Hansem postává před večerkou ve Veletržní ulici, kde kouří a pijí pivo. Přidají se k nim Blanka Divišová a Hana, přítelkyně Miloše. Na úřadě, kde se k nim připojí Tomáš Stránský a Jiří Hovorka, je obřad několikrát přerušen a téměř zrušen oddávajícím Lubošem Vayhelem.",
+    "Svatba se konala na provizorní radnici Prahy 7, kde dnes stojí Centrum Stromovka. Jiří Kára (1960–2014) zemřel 29. prosince 2014 a fanoušci mu u večerky ve Veletržní ulici každý rok zapalují svíčky.",
+    "Video patří k prvním virálům českého internetu. V roce 2023 ho autoři Paralelních listů remasterovali a promítali v kinech, kapela Papír sklo plasty mu věnovala celé album. Tvůrci hry Jiří Kára Simulátor vybrali v roce 2025 na Startovači půl milionu korun za necelé tři dny.",
+    "Kde seš, ty magore? Pro Jiřího Káru jsou čtyři minuty zpoždění věčnost."
   ],
   "author": {
     "name": "Sám Život",
@@ -42,12 +45,12 @@
   ],
   "tiles": [
     {
-      "name": "Dělééj, už jsi tady měl bejt 4 minuty",
+      "name": "Dělééj, už si tady měl bejt 4 minuty",
       "filename": "delej.mp3",
       "transcript": "Dělééj, už jste tady měli bejt 4 minuty, ty magore!"
     },
     {
-      "name": "Mám to v piči",
+      "name": "Mám to v píči",
       "filename": "mamtovpici.mp3",
       "transcript": "Mám to v píči, vole, ne?"
     },
@@ -72,9 +75,9 @@
       "transcript": "Si koupil nějaký pivo prej, zasraný."
     },
     {
-      "name": "Stránskej",
+      "name": "Stránskej vyprcanej",
       "filename": "kde_je_ten_stranskej.mp3",
-      "transcript": "Kde je ten Stránskej vypracenej, vole?"
+      "transcript": "Kde je ten Stránskej vyprcanej, vole?"
     },
     {
       "name": "Je čas klidu",
@@ -122,7 +125,7 @@
       "transcript": "Doprdele, co se děje?"
     },
     {
-      "name": "Kelt",
+      "name": "Zkurvenej Kelt",
       "filename": "kelt.mp3",
       "transcript": "Ty seš zkurvenej Kelt, ty vole."
     },
@@ -132,7 +135,7 @@
       "transcript": "Mrdám to, vole."
     },
     {
-      "name": "SS division Wallonie",
+      "name": "SS division Wallonien",
       "filename": "ssdivision.mp3",
       "transcript": "SS division Wallonie."
     },
@@ -232,7 +235,7 @@
     "– Duranga, vole.",
     "– Říkáš mi hezky, vole, magore, vole.",
     "– Si koupil nějaký pivo prej, zasraný.",
-    "– Kde je ten Stránskej vypracenej, vole?",
+    "– Kde je ten Stránskej vyprcanej, vole?",
     "– Uklidněte se, je čas klidu.",
     "– Že seš čůrák, vole, vydlážděnej, ty vole.",
     "– Ser na to, píčo, vole, nebo tě tady dokopu, ty vole!",
