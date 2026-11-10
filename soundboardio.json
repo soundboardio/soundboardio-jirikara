@@ -50,6 +50,21 @@
       "transcript": "Dělééj, už jste tady měli bejt 4 minuty, ty magore!"
     },
     {
+      "name": "To je prcárna!",
+      "filename": "prcarna.mp3",
+      "transcript": "To je prcárna, vole!"
+    },
+    {
+      "name": "Doprdele, co se děje?!",
+      "filename": "co_se_deje.mp3",
+      "transcript": "Doprdele, co se děje?"
+    },
+    {
+      "name": "Samozřejmě!",
+      "filename": "samozrejme.mp3",
+      "transcript": "Samozřejmě!"
+    },
+    {
       "name": "Mám to v píči",
       "filename": "mamtovpici.mp3",
       "transcript": "Mám to v píči, vole, ne?"
@@ -120,11 +135,6 @@
       "transcript": "Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk. Až budem odcházet."
     },
     {
-      "name": "Doprdele, co se děje?!",
-      "filename": "co_se_deje.mp3",
-      "transcript": "Doprdele, co se děje?"
-    },
-    {
       "name": "Zkurvenej Kelt",
       "filename": "kelt.mp3",
       "transcript": "Ty seš zkurvenej Kelt, ty vole."
@@ -155,11 +165,6 @@
       "transcript": "Dělej, je na stole kytka, makej. Říkám ti, jdi pro ni!"
     },
     {
-      "name": "To je prcárna!",
-      "filename": "prcarna.mp3",
-      "transcript": "To je prcárna, vole!"
-    },
-    {
       "name": "Poslední varování",
       "filename": "poslednivarovani.mp3",
       "transcript": "Jako není problém tu svatbu přerušit a zrušit úplně. To bylo první a poslední varování, upozorňuju vás na to."
@@ -168,11 +173,6 @@
       "name": "Ženich, pan Jiří Kára",
       "filename": "grc2.mp3",
       "transcript": "A vy, pane oddávající, dovolte, abych vám představila snoubence, ženicha, pana Jiřího Káru. A nevěstu, slečnu Blanku Divišovou."
-    },
-    {
-      "name": "Samozřejmě!",
-      "filename": "samozrejme.mp3",
-      "transcript": "Samozřejmě!"
     },
     {
       "name": "Kde máš sako?",
@@ -187,46 +187,55 @@
     {
       "name": "Hřeben, nebo pohráblo?",
       "filename": "hreben.mp3",
+      "tags": ["new"],
       "transcript": "Hřeben, nebo nějaký pohráblo?"
     },
     {
       "name": "Nemáte někdo voheň?",
       "filename": "vohen.mp3",
+      "tags": ["new"],
       "transcript": "Nemáte někdo voheň?"
     },
     {
       "name": "Anglie, ať žije Irsko!",
       "filename": "anglie.mp3",
+      "tags": ["new"],
       "transcript": "Anglie, Anglie, ať žije Irsko!"
     },
     {
       "name": "Já to všechno prcám!",
       "filename": "prcam.mp3",
+      "tags": ["new"],
       "transcript": "Já to všechno prcám!"
     },
     {
       "name": "Blahopřání mně a nevěstě!",
       "filename": "blahoprani.mp3",
+      "tags": ["new"],
       "transcript": "Blahopřání mně a nevěstě, ty buzerante!"
     },
     {
       "name": "Strč si to do kundy!",
       "filename": "kunda.mp3",
+      "tags": ["new"],
       "transcript": "Strč si to do kundy!"
     },
     {
       "name": "Krásná novověsta!",
       "filename": "novovesta.mp3",
+      "tags": ["new"],
       "transcript": "Krásná novověsta, ueueuuee!"
     },
     {
       "name": "S taškou jak kretén",
       "filename": "zobaky.mp3",
+      "tags": ["new"],
       "transcript": "Vy si tady budete vypalovat zobáky a já tady budu chodit s taškou jak kretén, jo? Na nákup, jo?"
     },
     {
       "name": "Vydržet 2 minuty v klidu",
       "filename": "dve_minuty_v_klidu.mp3",
+      "tags": ["new"],
       "transcript": "Jestli nejste schopný vydržet 2 minuty v klidu…"
     }
   ],
