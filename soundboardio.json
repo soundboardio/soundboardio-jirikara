@@ -117,7 +117,7 @@
     {
       "name": "Můžeme si tady zahajlovat?",
       "filename": "zahajlovat.mp3",
-      "transcript": "Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk."
+      "transcript": "Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk. Až budem odcházet."
     },
     {
       "name": "Co se děje?!",
@@ -147,7 +147,7 @@
     {
       "name": "Průkaz SS division",
       "filename": "prukaz.mp3",
-      "transcript": "To je průkaz SS divize Wallonie. Počkejte, klid."
+      "transcript": "To je průkaz SS divize Wallonie. Počkejte, klid. Druhej svědek, občanku."
     },
     {
       "name": "Dělej, je na stole, kytka!",
@@ -162,10 +162,10 @@
     {
       "name": "Poslední varování",
       "filename": "poslednivarovani.mp3",
-      "transcript": "To bylo první a poslední varování, upozorňuju vás na to."
+      "transcript": "Jako není problém tu svatbu přerušit a zrušit úplně. To bylo první a poslední varování, upozorňuju vás na to."
     },
     {
-      "name": "Svatební grc",
+      "name": "Ženich, pan Jiří Kára",
       "filename": "grc2.mp3",
       "transcript": "A vy, pane oddávající, dovolte, abych vám představila snoubence, ženicha, pana Jiřího Káru. A nevěstu, slečnu Blanku Divišovou."
     },
@@ -183,6 +183,51 @@
       "name": "Ty jsi trapnej!",
       "filename": "trapnej.mp3",
       "transcript": "Ty jsi trapnej!"
+    },
+    {
+      "name": "Hřeben, nebo pohráblo?",
+      "filename": "hreben.mp3",
+      "transcript": "Hřeben, nebo nějaký pohráblo?"
+    },
+    {
+      "name": "Nemáte někdo voheň?",
+      "filename": "vohen.mp3",
+      "transcript": "Nemáte někdo voheň?"
+    },
+    {
+      "name": "Anglie, ať žije Irsko!",
+      "filename": "anglie.mp3",
+      "transcript": "Anglie, Anglie, ať žije Irsko!"
+    },
+    {
+      "name": "Já to všechno prcám!",
+      "filename": "prcam.mp3",
+      "transcript": "Já to všechno prcám!"
+    },
+    {
+      "name": "Blahopřání mně a nevěstě!",
+      "filename": "blahoprani.mp3",
+      "transcript": "Blahopřání mně a nevěstě, ty buzerante!"
+    },
+    {
+      "name": "Strč si to do kundy!",
+      "filename": "kunda.mp3",
+      "transcript": "Strč si to do kundy!"
+    },
+    {
+      "name": "Krásná novověsta!",
+      "filename": "novovesta.mp3",
+      "transcript": "Krásná novověsta, ueueuuee!"
+    },
+    {
+      "name": "S taškou jak kretén",
+      "filename": "zobaky.mp3",
+      "transcript": "Vy si tady budete vypalovat zobáky a já tady budu chodit s taškou jak kretén, jo? Na nákup, jo?"
+    },
+    {
+      "name": "Vydržet 2 minuty v klidu",
+      "filename": "dve_minuty_v_klidu.mp3",
+      "transcript": "Jestli nejste schopný vydržet 2 minuty v klidu…"
     }
   ],
   "references": [
@@ -243,19 +288,28 @@
     "– Hele, já jsem ztratil prstýnek, jo, píčo.",
     "– SS division!",
     "– Vstávej, ty vokurko, vožralej!",
-    "– Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk.",
+    "– Můžeme si tady zahajlovat? To byste jeli, teda, jak namydlenej blesk. Až budem odcházet.",
     "– Doprdele, co se děje?",
     "– Ty seš zkurvenej Kelt, ty vole.",
     "– Mrdám to, vole.",
     "– SS division Wallonie.",
     "– Otočte se tam, na ty dva magory, na ty dva magory, rychle!",
-    "– To je průkaz SS divize Wallonie. Počkejte, klid.",
+    "– To je průkaz SS divize Wallonie. Počkejte, klid. Druhej svědek, občanku.",
     "– Dělej, je na stole kytka, makej. Říkám ti, jdi pro ni!",
     "– To je prcárna, vole!",
-    "– To bylo první a poslední varování, upozorňuju vás na to.",
+    "– Jako není problém tu svatbu přerušit a zrušit úplně. To bylo první a poslední varování, upozorňuju vás na to.",
     "– A vy, pane oddávající, dovolte, abych vám představila snoubence, ženicha, pana Jiřího Káru. A nevěstu, slečnu Blanku Divišovou.",
     "– Samozřejmě!",
     "– Kde máš sako? Tady jsem ho vyfakoval do prdele.",
-    "– Ty jsi trapnej!"
+    "– Ty jsi trapnej!",
+    "– Hřeben, nebo nějaký pohráblo?",
+    "– Nemáte někdo voheň?",
+    "– Anglie, Anglie, ať žije Irsko!",
+    "– Já to všechno prcám!",
+    "– Blahopřání mně a nevěstě, ty buzerante!",
+    "– Strč si to do kundy!",
+    "– Krásná novověsta, ueueuuee!",
+    "– Vy si tady budete vypalovat zobáky a já tady budu chodit s taškou jak kretén, jo? Na nákup, jo?",
+    "– Jestli nejste schopný vydržet 2 minuty v klidu…"
   ]
 }

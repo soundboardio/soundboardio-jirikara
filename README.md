@@ -8,7 +8,7 @@
 
 > Plugin for [SoundBoardio.com](https://soundboardio.com), a free GitHub-powered soundboard app.
 
-28 Czech sound quotes, playable in the browser and installable on your phone as an app.
+37 Czech sound quotes, playable in the browser and installable on your phone as an app.
 
 **▶ [Open the soundboard](https://soundboardio.com/app/jirikara/?utm_source=github&utm_medium=readme&utm_campaign=jirikara)**
 
